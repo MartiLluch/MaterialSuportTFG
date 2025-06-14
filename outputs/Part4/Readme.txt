@@ -1,0 +1,1 @@
+Només outputs de terminal!
