@@ -12,7 +12,7 @@ La memòria completa del treball inclou l’anàlisi empírica, el desenvolupame
 
 ## Autor
 
-Martí Lluch Guimerà  (marti.lluch01@estudiant.upf.edu)
+Martí Lluch Guimerà  (marti.lluch01@estudiant.upf.edu),
 Grau en Enginyeria de Xarxes de Telecomunicació – Universitat Pompeu Fabra  
 Curs 2024–2025
 
